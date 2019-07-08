@@ -1,0 +1,17 @@
+{
+  "name": "kvetkin/bracketed_problem",
+  "description": "Bracketed problem Composer package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vladislav Kvetkin",
+      "email": "vlad.kvetkin@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
